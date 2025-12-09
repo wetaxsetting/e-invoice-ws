@@ -1,0 +1,13 @@
+D:\WebProject\EInvoice\EInvoice\bin\EInvoice.dll.config
+D:\WebProject\EInvoice\EInvoice\bin\EInvoice.dll
+D:\WebProject\EInvoice\EInvoice\bin\EInvoice.pdb
+D:\WebProject\EInvoice\EInvoice\obj\Debug\EInvoice.csprojResolveAssemblyReference.cache
+D:\WebProject\EInvoice\EInvoice\obj\Debug\EInvoice.dll
+D:\WebProject\EInvoice\EInvoice\obj\Debug\EInvoice.pdb
+A:\E-Invoice\EInvoice\bin\EInvoice.dll.config
+A:\E-Invoice\EInvoice\bin\EInvoice.dll
+A:\E-Invoice\EInvoice\bin\EInvoice.pdb
+A:\E-Invoice\EInvoice\obj\Debug\EInvoice.csprojAssemblyReference.cache
+A:\E-Invoice\EInvoice\obj\Debug\EInvoice.csproj.CoreCompileInputs.cache
+A:\E-Invoice\EInvoice\obj\Debug\EInvoice.dll
+A:\E-Invoice\EInvoice\obj\Debug\EInvoice.pdb
